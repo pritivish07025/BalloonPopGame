@@ -22,6 +22,11 @@ A fun and interactive **Balloon Pop Game** built with **HTML, CSS, and JavaScrip
 
 ---
 
+## 🔗 Live Demo
+
+[Play Balloon Pop Game Online](https://pritivish07025.github.io/BalloonPopGame/)
+
+
 ## 🔹 Skills Used
 
 - HTML  
